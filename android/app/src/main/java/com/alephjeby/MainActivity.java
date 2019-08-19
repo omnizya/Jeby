@@ -1,4 +1,4 @@
-package com.alephjeby;
+package com.omnizya.alephjeby;
 
 import com.facebook.react.ReactActivity;
 

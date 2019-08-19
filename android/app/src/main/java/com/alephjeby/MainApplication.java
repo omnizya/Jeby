@@ -1,4 +1,4 @@
-package com.alephjeby;
+package com.omnizya.alephjeby;
 
 import android.app.Application;
 import android.util.Log;
