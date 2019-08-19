@@ -25,5 +25,8 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "Finance and budget tracking app ",
+  "author": "Mohamed Moughamir <moughamir@gmail.com> (https://omnizya.com/)",
+  "license": "MIT"
 }
